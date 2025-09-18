@@ -6,7 +6,7 @@ Before SIH → After symptom onset → Last follow‑up (post‑surgery), using 
 ___
 What the provided script does (Sankey.R)
 
-1. Reads the Excel input: Data/Sankey Plot for kev.xlsx (sheet: Sheet1).
+1. Reads the Excel input: Data/Data.xlsx (sheet: Sheet1).
 2. Recodes raw codes → labels (exactly as in your legend):
   a. Before SIH: 1000 = Full capacity, 555 = Voluntary reduction (non‑physical), 666 = Unemployed.
   b. After / Last FU: 100 = Full capacity, 99 = Adapted but full capacity, 80 = Reduced to 50–80%, 20 = Reduced to 20–50%, 0 = Unable to work / sick leave.
